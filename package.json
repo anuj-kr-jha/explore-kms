@@ -1,0 +1,12 @@
+{
+  "name": "explore-kms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/anuj-kr-jha/explore-kms.git",
+  "author": "Anuj Kumar Jha <anuj.kr.jha@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@aws-sdk/client-kms": "^3.405.0",
+    "dotenv": "^16.3.1"
+  }
+}
